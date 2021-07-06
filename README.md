@@ -8,7 +8,7 @@
 Fastjson漏洞回显
 Jmxrmi漏洞回显
 RmiServer漏洞回显
-ApacheOfbiz漏洞利用回显
+ApacheOfbiz漏洞利用回显(CVE-2021-26295,CVE-2020-9496)
 ```
 
 ## 0x01 环境搭建
