@@ -13,12 +13,12 @@ ApacheOfbiz漏洞利用回显(CVE-2021-26295,CVE-2020-9496)
 
 ## 0x01 环境搭建
 
-jdk1.8（开发环境）
+jdk1.8（开发环境）服务端启动时，请自行修改账号密码和启动端口
 
 Server
 
 ```
-java -jar server-0.0.1-SNAPSHOT.jar --uname=admin --pwd=123456 --host=x.x.x.x
+java -jar server-0.0.1-SNAPSHOT.jar --uname=admin --pwd=123456 --host=x.x.x.x --server.port=8080
 ```
 
 Client
