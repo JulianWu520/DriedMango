@@ -5,9 +5,10 @@
 目前支持的漏洞有：
 
 ```
-fastjson
-jmxrmi
-rmiserver 
+Fastjson漏洞回显
+Jmxrmi漏洞回显
+RmiServer漏洞回显
+ApacheOfbiz漏洞利用回显
 ```
 
 ## 0x01 环境搭建
@@ -56,12 +57,44 @@ Exploit--FastjsonJndi
 
 选择Confirm Request即可。
 
-## 0x03、后记
+![image-20210706200010997](README.assets/image-20210706200010997.png)
 
-可能还有许多未知bug，后续会继续维护，若有新的漏洞利用需要添加以及bug反馈，可提issue或本人微信DrMangGuoGan。
+### 3、Apache Ofbiz 回显利用
+
+CVE-2021-26295
+
+![image-20210706173628914](README.assets/image-20210706173628914.png)
+
+![image-20210706173853565](README.assets/image-20210706173853565.png)
+
+![image-20210706174047099](README.assets/image-20210706174047099.png)
+
+CVE-2020-9496
+
+![image-20210706174436532](README.assets/image-20210706174436532.png)
+
+更多使用：
+
+https://xz.aliyun.com/t/9741
+
+## 0x03 后记
+
+可能还有许多未知bug，后续会继续维护，若有新的漏洞利用需要添加以及bug反馈，可提issue或者联系我DrMangGuoGan。
 
 
 
-## 0x04、引用
+## 0x04 引用参考
 
 作品引用了多个师傅的代码，由于数量较多，暂时没补上，后续一一添加，或联系本人添加。
+
+http://wjlshare.com/archives/1529#0x06
+https://mp.weixin.qq.com/s/x4pxmeqC1DvRi9AdxZ-0Lw
+https://www.anquanke.com/post/id/198886
+https://github.com/mbechler/marshalsec
+https://xz.aliyun.com/t/7348
+https://xz.aliyun.com/t/7535
+https://xz.aliyun.com/t/8184
+https://xz.aliyun.com/t/9345
+https://xz.aliyun.com/t/8324
+https://github.com/dwisiswant0/CVE-2020-9496
+https://kylingit.com/blog/cve-2020-9496-apache-ofbiz-xmlrpc-rce%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/
