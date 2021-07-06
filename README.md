@@ -88,13 +88,24 @@ https://xz.aliyun.com/t/9741
 作品引用了多个师傅的代码，由于数量较多，暂时没补上，后续一一添加，或联系本人添加。
 
 http://wjlshare.com/archives/1529#0x06
+
 https://mp.weixin.qq.com/s/x4pxmeqC1DvRi9AdxZ-0Lw
+
 https://www.anquanke.com/post/id/198886
+
 https://github.com/mbechler/marshalsec
+
 https://xz.aliyun.com/t/7348
+
 https://xz.aliyun.com/t/7535
+
 https://xz.aliyun.com/t/8184
+
 https://xz.aliyun.com/t/9345
+
 https://xz.aliyun.com/t/8324
+
 https://github.com/dwisiswant0/CVE-2020-9496
+
 https://kylingit.com/blog/cve-2020-9496-apache-ofbiz-xmlrpc-rce%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/
+
