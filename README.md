@@ -79,7 +79,7 @@ https://xz.aliyun.com/t/9741
 
 ## 0x03 后记
 
-可能还有许多未知bug，后续会继续维护，若有新的漏洞利用需要添加以及bug反馈，可提issue或者联系我DrMangGuoGan。
+可能还有许多未知bug，后续会继续维护，若有新的漏洞利用需要添加以及bug反馈可提issue。
 
 
 
