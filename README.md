@@ -77,7 +77,7 @@ CVE-2020-9496
 
 https://xz.aliyun.com/t/9741
 
-https://github.com/MrMeizhi/DriedMango
+https://xz.aliyun.com/t/9827
 
 ## 0x03 后记
 
