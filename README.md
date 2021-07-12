@@ -73,9 +73,10 @@ CVE-2020-9496
 
 ![image-20210706174436532](README.assets/image-20210706174436532.png)
 
-更多使用：
+更多使用和工具原理详情：
 
 https://xz.aliyun.com/t/9741
+
 https://github.com/MrMeizhi/DriedMango
 
 ## 0x03 后记
